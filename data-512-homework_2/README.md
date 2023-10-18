@@ -28,10 +28,17 @@ This code example was developed by Dr. David W. McDonald for use in DATA 512, a 
 ## Research Implications
 
 __What biases did you expect to find in the data (before you started working with it), and why?__
+Before I started exploring the data, one of my assumptions was that popular cities around US (like NYC, San Francisco, Boston, Chicago, etc) will have articles with higher ORES rating. My rationale for this assumption there is likeliness of more contributions made to Wiki for these popular cities. As a Wiki consumer myself, I will go to Wiki to learn about popular cities before visiting them for example. Hence popularity of a city can lead to more information added to Wiki and hence qualifies for higher rating - thats one of my underlying biases.
 
+The second bias is related to economy of a city. Cities that contribute to the economy of a state or the overall country are usually more populated. People settle there for jobs. That may lead to more contributirs adding to wiki.
 
 
 __What (potential) sources of bias did you discover in the course of your data processing and analysis?__
+I was surprised to see California as one of the bottom 10 states by articles per capita. Being the 2nd lagest state in US , I was assuming it will have good coverage in terms of articles for its cities. 
+Population demographics seems to play a part in the article coverage per capita. The top 10 states by article coverage per capita have predominantly English speaking white population. This can be a contributing factor to more article coverage.
+
+
+
 
 
 __What might your results suggest about (English) Wikipedia as a data source?__
