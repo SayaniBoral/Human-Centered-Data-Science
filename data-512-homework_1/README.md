@@ -11,7 +11,7 @@ The page view data is sourced using the [Wikimedia REST API](https://www.mediawi
 The list of articles represent 1359 Academy award winning movies.
 
 ## License
-This code example was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.2 - August 14, 2023
+This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.2 - August 14, 2023
 
 
 ## Implementation
