@@ -1,0 +1,5 @@
+Increasingly, summers in the mid & western United States are marked by wildfires, with smoke spreading across numerous states in the region. Various factors have been suggested as potential causes, including climate change, US Forestry policy, and heightened awareness. Regardless of the underlying reasons, the repercussions of wildland fires are extensive. A growing body of research underscores the adverse effects of smoke on health, tourism, property, and various societal aspects.
+
+The task for the course project involves analyzing the impact of wildfires on a specific city in the United States. The ultimate objective is to provide valuable insights to policymakers, city managers, city councils, or other civic institutions, enabling them to formulate well-informed plans to address or decide whether to develop strategies for mitigating future wildfire impacts.
+
+Part 1 Common Analysis Reflection - 
