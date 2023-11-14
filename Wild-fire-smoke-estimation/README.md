@@ -2,4 +2,4 @@ Increasingly, summers in the mid & western United States are marked by wildfires
 
 The task for the course project involves analyzing the impact of wildfires on a specific city : Grand Island, Nebraska in the United States. The ultimate objective is to provide valuable insights to policymakers, city managers, city councils, or other civic institutions, enabling them to formulate well-informed plans to address or decide whether to develop strategies for mitigating future wildfire impacts.
 
-Part 1 Common Analysis Reflection - https://docs.google.com/document/d/1qhQOJ_3-P0bWgaeUwyBgnVGcuZDlWkOFYoLPsLIohmw/edit?usp=sharing
+Part 1 Common Analysis Reflection - https://docs.google.com/document/d/1qhQOJ_3-P0bWgaeUwyBgnVGcuZDlWkOFYoLPsLIohmw/edit?usp=sharing 
